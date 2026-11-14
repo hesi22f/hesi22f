@@ -22,7 +22,7 @@
 - 🤖 Interested in the intersection of **AI agents, developer tooling, and safety**.
 - 🌱 Always learning — currently exploring **LLM evaluation** and **static analysis**.
 - 💬 Ask me about **Python, CLI design, GitHub Actions, or AI coding workflows**.
-- 📫 Reach me at **<your-email@example.com>** or open an issue on any of my repos.
+- 📫 Reach me at **<hhvcv8684@gmail.com>** or open an issue on any of my repos.
 
 ---
 
