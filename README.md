@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <Your Name> 👋</h1>
+<h1 align="center">Hi there, I'm <Hesam Taghavi> 👋</h1>
 
 <p align="center">
   <em>Python developer • CLI tool builder • AI-assisted dev enthusiast</em>
